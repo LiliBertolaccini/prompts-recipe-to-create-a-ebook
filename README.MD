@@ -7,15 +7,11 @@
 
 **"Onde aprendizado, educação e inclusão andam juntos!"**
 
-
 [Clique aqui para ouvir o podcast](https://soundcloud.com/user374117207/podcast_children_parents)
-
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2199270923&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-
 Seu navegador não suporta o player de áudio.
-
 
 *Bem-vindo ao repositório do **Podcast: Jogo, Som e Diversão**, criado para pais, mães e famílias que buscam um espaço educativo e inclusivo para seus filhos e filhas. Nossa missão é unir diversão e aprendizado em um ambiente acolhedor, respeitando o ritmo único de cada criança. 💖*
 
