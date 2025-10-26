@@ -13,7 +13,7 @@
 
 <div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;">
 </div>
-
+<br>
 *Bem-vindo ao repositório do **Podcast: Jogo, Som e Diversão**, criado para pais, mães e famílias que buscam um espaço educativo e inclusivo para seus filhos e filhas. Nossa missão é unir diversão e aprendizado em um ambiente acolhedor, respeitando o ritmo único de cada criança. 💖*
 
 ---
