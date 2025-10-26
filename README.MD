@@ -1,9 +1,3 @@
-# 🎙️ Podcast: Jogo, Som e Diversão
-
-
-![Capa do Ebook](https://github.com/LiliBertolaccini/prompts-for-podcast-generate-by-ia/raw/main/capa_ebook.png)
-
-## Ouça nosso Podcast!
 
 # 🎙️ Podcast: Jogo, Som e Diversão
 
@@ -16,7 +10,6 @@
 
 [Clique aqui para ouvir o podcast](https://soundcloud.com/user374117207/podcast_children_parents)
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/url=https%3A//soundcloud.com/user374117207/podcast_children_parents&color=%23ff5500"></iframe>
 
 <div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;">
 </div>
