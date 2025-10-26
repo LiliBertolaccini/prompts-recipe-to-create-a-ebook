@@ -7,13 +7,13 @@
 
 **"Onde aprendizado, educação e inclusão andam juntos!"**
 
-11: [Clique aqui para ouvir o podcast](https://soundcloud.com/user374117207/podcast_children_parents)
-12: 
-13: <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="..."></iframe>
-14: 
-15: <div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user374117207" title="user374117207" target="_blank" style="color: #cccccc; text-decoration: none;">user374117207</a> · <a href="https://soundcloud.com/user374117207/podcast_children_parents" title="podcast_children_parents" target="_blank" style="color: #cccccc; text-decoration: none;">podcast_children_parents</a></div>
-16: 
-17: Seu navegador não suporta o player de áudio.
+[Clique aqui para ouvir o podcast](https://soundcloud.com/user374117207/podcast_children_parents)
+ 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="..."></iframe>
+ 
+<div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user374117207" title="user374117207" target="_blank" style="color: #cccccc; text-decoration: none;">user374117207</a> · <a href="https://soundcloud.com/user374117207/podcast_children_parents" title="podcast_children_parents" target="_blank" style="color: #cccccc; text-decoration: none;">podcast_children_parents</a></div>
+ 
+Seu navegador não suporta o player de áudio.
 
 
 
